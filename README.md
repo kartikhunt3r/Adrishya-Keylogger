@@ -30,6 +30,7 @@ Screen shot and custom time delay. mail based control.
 ## Features
 
 - fully undetectable
+- fully persistent. works normally After network break or system shut down or victim deletes the payload from system.
 - capture key strokes
 - capture live screen shorts 
 - capture system information
@@ -37,7 +38,6 @@ Screen shot and custom time delay. mail based control.
 - steal wifi passwords
 - custom duration of mails.
 - report results on Gmail account, no ip or reverse shell required.
-- fully persistent. After network brack or shut down, connection will not brack.
 - victim can't delete it once installed in device.(hide itself with system files)
 - self distrut machanism, if someone tries to open it, exploit destroy itself.(ye soch raha tha nahi dalta hu, varna GitHub ban kar dega)
 - small size payloads

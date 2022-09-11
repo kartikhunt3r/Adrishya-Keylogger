@@ -148,6 +148,17 @@ cd keylogger
 - send to victim
 
 
+## How to remove payload from infacted systems:
+
+- download ![Adrishya-shild](https://github.com/kartikhunt3r/Adrishya-Keylogger/blob/main/keylogger-remover.py)
+
+- open terminal or command prompt
+
+```bash
+python3 keylogger-remover.py    
+```
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kartiksavaliya.tech/)
 

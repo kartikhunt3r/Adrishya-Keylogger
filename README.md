@@ -39,7 +39,6 @@ Screen shot and custom time delay. mail based control.
 - custom duration of mails.
 - report results on Gmail account, no ip or reverse shell required.
 - victim can't delete it once installed in device.(hide itself with system files)
-- self distrut machanism, if someone tries to open it, exploit destroy itself.(ye soch raha tha nahi dalta hu, varna GitHub ban kar dega)
 - small size payloads
 - steal Apache director studio password
 - steal browser autosaved banking informations

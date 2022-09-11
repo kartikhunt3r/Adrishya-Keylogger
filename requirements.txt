@@ -1,0 +1,3 @@
+pynput==1.7.1
+pyscreenshot==3.0
+requests==2.21.0

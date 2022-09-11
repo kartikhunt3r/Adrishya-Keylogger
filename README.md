@@ -10,7 +10,7 @@ Screen shot and custom time delay. mail based control.
 
 ## Platforms:
 
-- All windows distributions [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+- All windows distributions ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 - All linux distributions
 

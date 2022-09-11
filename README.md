@@ -12,13 +12,19 @@ Screen shot and custom time delay. mail based control.
 
 - ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) All windows distributions
 
-- All linux distributions
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) All linux distributions
 
-- .py payload for python victims.
+- ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) .py payload for python victims.
 
-- high level of encryption. Paylod is unreadable for victim.
+- 🔐 high level of encryption. Paylod is unreadable for victim.
 
-- easy to bind with pdf,doc,word,jpg,png,MP4,MP3 or any other file extensions (you have to use third party tool for this)
+- 🕵🏻‍♂️ three Types of payload formats: 
+     - .sh(linux executable) 
+     - .exe(windows executable) 
+     - .bat(windows executable) 
+     - .py(python exe)
+
+- 👾 easy to bind with pdf,doc,word,jpg,png,MP4,MP3 or any other file extensions (you have to use third party tool for this)
 
 
 ## Features
@@ -68,58 +74,79 @@ Screen shot and custom time delay. mail based control.
 
 
 ```bash
-git clone https://github.com/kartikhunt3r/Adrishya-PortScanner.git
+git clone https://github.com/kartikhunt3r/Adrishya-Keylogger.git
 
-cd Adrishya-PortScanner
+cd Adrishya-Keylogger
 
 chmod +x *
 
 pip install -r requirements.txt
-
-python3 portscanner.py -h
 ```
 
 
 ## Use:
 
+- create a gmail account to recive keylogger reports
+- enable third party logins from gmail account settings
 
 ```bash
-python3 portscanner.py -t scanme.nmap.org -m 1 -T 30      
+python3 control.sh    
+```
 
+- enter your gmail adress
+- enter password
+- set time duration for reciving mails in secounds. (choose 300+ for best performence. otherwise your mailbox will be flooded by mails)
+
+```bash
+cd keylogger    
 ```
 
 
-## Run With Proxy:
+## For Linux Victims:
+
+- Generate keyloger
+
+- copy payload Keylogger_For_Linux
+
+- send to victim
 
 
-```bash
-python3 portscanner.py -t scanme.nmap.org -p 98.178.72.21:10919  -m 1 -T 30
-```
+
+## For Windows Victims:
 
 
-## Options:
+### .bat payload
+
+- Generate keyloger
+
+- copy payload Keylogger_For_windows.bat
+
+- send to victim
 
 
-```bash
+### .exe payload
 
-Usage: portscanner.py [options]
+- Generate keyloger
 
-Options:
-  -h, --help            show this help message and exit
-  -t TARGET, --target=TARGET
-                        target/host to scan
-  -p PROXY_IP, --proxy=PROXY_IP
-                        proxy ip address and port number
-  -m MODE, --mode=MODE  Enter the scanning mode: [1]:Scan PORT 1-1024,
-                        [2]:Scan PORT 1-48128, [3]:Scan Only Important
-                        Port(Fast Scanning), [4]:Custom(Range),
-                        [5]:Custom(Specific) PORT, [6]:Full Scan(All Ports)
-  -T THREADS, --threads=THREADS
-                        number of threads
-  -V, --verbose mode    print all results
-  
-    
-```
+- copy payload Keylogger_For_windows.bat
+
+- go to your windows mashine
+
+- download bat2exe tool, drag and drop Keylogger_For_windows.bat on it.
+
+- now you have Keylogger_For_windows.exe
+
+- send to victim
+
+
+## For Python Victims:
+
+
+- Generate keyloger
+
+- copy payload keylogger_for_all_OS.py
+
+- send to victim
 
 
 ## 🔗 Links

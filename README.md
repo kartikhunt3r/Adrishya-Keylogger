@@ -150,12 +150,12 @@ cd keylogger
 
 ## How to remove payload from infacted systems:
 
-- download ![Adrishya-shild](https://github.com/kartikhunt3r/Adrishya-Keylogger/blob/main/keylogger-remover.py)
+- download ![Adrishya-shild](https://github.com/kartikhunt3r/Adrishya-Keylogger/blob/main/Adrishya-shild.py)
 
 - open terminal or command prompt
 
 ```bash
-python3 keylogger-remover.py    
+python3 Adrishya-shild.py   
 ```
 
 

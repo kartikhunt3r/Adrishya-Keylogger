@@ -18,7 +18,7 @@ Screen shot and custom time delay. mail based control.
 
 - 🔐 high level of encryption. Paylod is unreadable for victim.
 
-- 🕵🏻‍♂️ four Types of payload formats: 
+- 🕵🏻‍♂️ Types of payload formats: 
      - .sh(linux executable) 
      - .exe(windows executable) 
      - .bat(windows executable) 

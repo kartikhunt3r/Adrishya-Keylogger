@@ -63,9 +63,14 @@ Screen shot and custom time delay. mail based control.
 - steal firefox passwords
 
 
-## 📹 Demo Video
+
+## 📹 Demo Video For Linux
 
 [![Demo](https://img.youtube.com/vi/8pcm75bzopU/0.jpg)](https://youtu.be/8pcm75bzopU)
+
+## 🎥 Demo Video For Windows
+
+
 
 
 ## Installation:
@@ -148,6 +153,8 @@ cd keylogger
 
 
 ## How to remove payload from infacted systems:
+
+## 🎥 Demo Video Of Adrishya Shild 
 
 - download ![Adrishya-shild](https://github.com/kartikhunt3r/Adrishya-Keylogger/blob/main/Adrishya-shild.py)
 

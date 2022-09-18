@@ -70,7 +70,7 @@ Screen shot and custom time delay. mail based control.
 
 ## 🎥 Demo Video For Windows
 
-[![Demo](https://img.youtube.com/vi/R5vJl34ukeY/0.jpg)](https://www.youtube.com/watch?v=R5vJl34ukeY)
+[![Demo](https://img.youtube.com/vi/R5vJl34ukeY/0.jpg)](https://youtu.be/R5vJl34ukeY)
 
 
 ## Installation:
@@ -155,6 +155,9 @@ cd keylogger
 ## How to remove payload from infacted systems:
 
 ## 🎥 Demo Video Of Adrishya Shild 
+
+[![Demo](https://img.youtube.com/vi/oyERlxBdtYw/0.jpg)](https://youtu.be/oyERlxBdtYw)
+
 
 - download ![Adrishya-shild](https://github.com/kartikhunt3r/Adrishya-Keylogger/blob/main/Adrishya-shild.py)
 

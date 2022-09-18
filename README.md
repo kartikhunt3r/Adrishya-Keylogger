@@ -70,7 +70,7 @@ Screen shot and custom time delay. mail based control.
 
 ## 🎥 Demo Video For Windows
 
-
+[![Demo](https://img.youtube.com/vi/R5vJl34ukeY/0.jpg)](https://www.youtube.com/watch?v=R5vJl34ukeY)
 
 
 ## Installation:
